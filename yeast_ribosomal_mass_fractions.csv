@@ -1,0 +1,80 @@
+growth_rate_hr,mass_fraction,source,method,notes
+0.1,0.14,Nissen et al. 1997,,Data taken from Nissen et al. 1997
+0.2,0.164,Nissen et al. 1997,,Data taken from Nissen et al. 1997
+0.3,0.181981982,Nissen et al. 1997,,Data taken from Nissen et al. 1997
+0.4,0.201331115,Nissen et al. 1997,,Data taken from Nissen et al. 1997
+,,,,
+0.188143747,0.233333333,Boehlke & Friesen 1975,,phi = RNA/P/10; doubling time (min) converted to growth rate hr^-1 by 60*ln(2)/T
+0.150514998,0.2,Boehlke & Friesen 1975,,phi = RNA/P/10; doubling time (min) converted to growth rate hr^-1 by 60*ln(2)/T
+0.131837954,0.2,Boehlke & Friesen 1975,,phi = RNA/P/10; doubling time (min) converted to growth rate hr^-1 by 60*ln(2)/T
+0.106245881,0.205263158,Boehlke & Friesen 1975,,phi = RNA/P/10; doubling time (min) converted to growth rate hr^-1 by 60*ln(2)/T
+0.047656464,0.152380952,Boehlke & Friesen 1975,,phi = RNA/P/10; doubling time (min) converted to growth rate hr^-1 by 60*ln(2)/T
+0.046431362,0.12962963,Boehlke & Friesen 1975,,phi = RNA/P/10; doubling time (min) converted to growth rate hr^-1 by 60*ln(2)/T
+0.043417788,0.158064516,Boehlke & Friesen 1975,,phi = RNA/P/10; doubling time (min) converted to growth rate hr^-1 by 60*ln(2)/T
+0.037164197,0.145714286,Boehlke & Friesen 1975,,phi = RNA/P/10; doubling time (min) converted to growth rate hr^-1 by 60*ln(2)/T
+,,,,
+0.091684,0.086598,Ertugay & Hamamci 1997,continuous culture; percentage of cells present estimated with methylene blue,RNA content (series 3) from Fig. 2; y-axis mg/g biomass converted to fraction by dividing by 1000.
+0.139659,0.087629,Ertugay & Hamamci 1997,continuous culture; percentage of cells present estimated with methylene blue,RNA content (series 3) from Fig. 2; y-axis mg/g biomass converted to fraction by dividing by 1000.
+0.189765,0.094845,Ertugay & Hamamci 1997,continuous culture; percentage of cells present estimated with methylene blue,RNA content (series 3) from Fig. 2; y-axis mg/g biomass converted to fraction by dividing by 1000.
+0.23774,0.083505,Ertugay & Hamamci 1997,continuous culture; percentage of cells present estimated with methylene blue,RNA content (series 3) from Fig. 2; y-axis mg/g biomass converted to fraction by dividing by 1000.
+0.289979,0.086598,Ertugay & Hamamci 1997,continuous culture; percentage of cells present estimated with methylene blue,RNA content (series 3) from Fig. 2; y-axis mg/g biomass converted to fraction by dividing by 1000.
+0.362633,0.101031,Ertugay & Hamamci 1997,continuous culture; percentage of cells present estimated with methylene blue,RNA content (series 3) from Fig. 2; y-axis mg/g biomass converted to fraction by dividing by 1000.
+0.391258,0.089691,Ertugay & Hamamci 1997,continuous culture; percentage of cells present estimated with methylene blue,RNA content (series 3) from Fig. 2; y-axis mg/g biomass converted to fraction by dividing by 1000.
+,,,,
+0.3271186440677966,0.15675675675675677,"Bjorkeroth et al., 2020",,Colored points from previous studies (legend).
+0.3276836158192091,0.18513513513513513,"Bjorkeroth et al., 2020",,Colored points from previous studies (legend).
+0.4062146892655367,0.25135135135135134,"Bjorkeroth et al., 2020",,Colored points from previous studies (legend).
+0.4480225988700565,0.27387387387387385,"Bjorkeroth et al., 2020",,Colored points from previous studies (legend).
+,,,,
+0.049133583589276913,0.10917225950782995,"Elsemman et al., 2022",,Colored points from previous studies (legend).
+0.1649717514124294,0.18828828828828828,"Elsemman et al., 2022",,Colored points from previous studies (legend).
+0.18145970252507782,0.18243243243243243,"Elsemman et al., 2022",,Colored points from previous studies (legend).
+0.2000437962597994,0.14299881276625465,"Elsemman et al., 2022",,Colored points from previous studies (legend).
+0.22655367231638418,0.15360360360360362,"Elsemman et al., 2022",,Colored points from previous studies (legend).
+0.26967183555715835,0.16653248993674524,"Elsemman et al., 2022",,Colored points from previous studies (legend).
+0.2745762711864407,0.21126126126126127,"Elsemman et al., 2022",,Colored points from previous studies (legend).
+0.2903954802259887,0.21351351351351353,"Elsemman et al., 2022",,Colored points from previous studies (legend).
+0.3012028430836523,0.1800421389131067,"Elsemman et al., 2022",,Colored points from previous studies (legend).
+0.3706214689265537,0.22297297297297297,"Elsemman et al., 2022",,Colored points from previous studies (legend).
+,,,,
+0.24745762711864408,0.20945945945945946,"Metzl-Raz et al., 2017",,Colored points from previous studies (legend).
+0.2689265536723164,0.23423423423423423,"Metzl-Raz et al., 2017",,Colored points from previous studies (legend).
+0.3694915254237288,0.2671171171171171,"Metzl-Raz et al., 2017",,Colored points from previous studies (legend).
+0.3694915254237288,0.2801801801801802,"Metzl-Raz et al., 2017",,Colored points from previous studies (legend).
+0.41920903954802263,0.2927927927927928,"Metzl-Raz et al., 2017",,Colored points from previous studies (legend).
+,,,,
+0.11259941857276069,0.15072159538178956,"Paulo et al., 2016",,Colored points from previous studies (legend).
+0.15437713262851713,0.1706984211934707,"Paulo et al., 2016",,Colored points from previous studies (legend).
+0.17353495070344527,0.16820349761526235,"Paulo et al., 2016",,Colored points from previous studies (legend).
+0.23148022598870058,0.18809009009009006,"Paulo et al., 2016",,Colored points from previous studies (legend).
+0.33040219276164906,0.24003211131924004,"Paulo et al., 2016",,Colored points from previous studies (legend).
+0.338065670973877,0.26940504861296943,"Paulo et al., 2016",,Colored points from previous studies (legend).
+0.4620623390599178,0.31371575657289946,"Paulo et al., 2016",,Colored points from previous studies (legend).
+0.46245602814198905,0.3000679925208227,"Paulo et al., 2016",,Colored points from previous studies (legend).
+,,,,
+0.05763825109237147,0.11768073492211426,Gao et al. 2025 ,,Carbon-limited; Black dots in legend
+0.06854305769560007,0.12641550641550642,Gao et al. 2025 ,,Carbon-limited; Black dots in legend
+0.1911581920903955,0.14811373873873873,Gao et al. 2025 ,,Carbon-limited; Black dots in legend
+0.2074412341559088,0.16752088876441212,Gao et al. 2025 ,,Carbon-limited; Black dots in legend
+0.2548288021840519,0.18611766128544655,Gao et al. 2025 ,,Carbon-limited; Black dots in legend
+0.27981638418079097,0.18432432432432436,Gao et al. 2025 ,,Carbon-limited; Black dots in legend
+0.3752426481240041,0.18423423423423424,Gao et al. 2025 ,,Carbon-limited; Black dots in legend
+0.4247249479631282,0.22762565196775722,Gao et al. 2025 ,,Carbon-limited; Black dots in legend
+0.46550511635257397,0.24346374346374347,Gao et al. 2025 ,,Carbon-limited; Black dots in legend
+0.09879943502824859,0.1311111111111111,Gao et al. 2025 ,,Nitrogen-limited; Grey squares in legend
+0.1934102454541139,0.15995533348474528,Gao et al. 2025 ,,Nitrogen-limited; Grey squares in legend
+0.25376124712282905,0.1738988988988989,Gao et al. 2025 ,,Nitrogen-limited; Grey squares in legend
+,,,,
+0.027118644067796613,0.13701201201201205,"Xia et al., 2022",,Colored points from previous studies (legend).
+0.04406779661016949,0.14135954135954135,"Xia et al., 2022",,Colored points from previous studies (legend).
+0.10218926553672317,0.1668918918918919,"Xia et al., 2022",,Colored points from previous studies (legend).
+0.15196484620213432,0.18244244244244245,"Xia et al., 2022",,Colored points from previous studies (legend).
+0.2138931689779147,0.2008599508599509,"Xia et al., 2022",,Colored points from previous studies (legend).
+0.2536723163841808,0.21676459067763412,"Xia et al., 2022",,Colored points from previous studies (legend).
+0.28382126348228043,0.22573710073710074,"Xia et al., 2022",,Colored points from previous studies (legend).
+0.33354355538037056,0.2490467211397444,"Xia et al., 2022",,Colored points from previous studies (legend).
+0.37776175021036185,0.2605712095073797,"Xia et al., 2022",,Colored points from previous studies (legend).
+,,,,
+0.190124208,0.109414063,Wehr & Parks 1969,,Divided by 10 to correct for erroneous data; 80% of RNA is rRNA; doubling time (min) converted to growth rate hr^-1 by 60*ln(2)/T
+0.090308999,0.081719577,Wehr & Parks 1969,,Divided by 10 to correct for erroneous data; 80% of RNA is rRNA; doubling time (min) converted to growth rate hr^-1 by 60*ln(2)/T
+0.061019594,0.060548303,Wehr & Parks 1969,,Divided by 10 to correct for erroneous data; 80% of RNA is rRNA; doubling time (min) converted to growth rate hr^-1 by 60*ln(2)/T

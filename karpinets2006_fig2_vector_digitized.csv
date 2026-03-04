@@ -1,0 +1,30 @@
+growth_rate_hr,mass_fraction,source,method,notes
+0.4196137382265038,0.2000733618336772,E. coli,vector_extracted_from_pdf,filled square
+0.6899444774584693,0.2499836344653157,E. coli,vector_extracted_from_pdf,filled square
+1.0395171310595148,0.33003250724467853,E. coli,vector_extracted_from_pdf,filled square
+1.3899252614158322,0.39009791671878274,E. coli,vector_extracted_from_pdf,filled square
+1.7298819353050625,0.47014678949814553,E. coli,vector_extracted_from_pdf,filled square
+0.08962415341948328,0.11214912517461617,N. crassa,vector_extracted_from_pdf,filled triangle (red)
+0.17994032647389374,0.1461370886727591,N. crassa,vector_extracted_from_pdf,filled triangle (red)
+0.28001593636046407,0.1754188352426459,N. crassa,vector_extracted_from_pdf,filled triangle (red)
+0.3300588022237038,0.23505447497969117,N. crassa,vector_extracted_from_pdf,filled triangle (red)
+0.3497093628281173,0.25906954759763695,N. crassa,vector_extracted_from_pdf,filled triangle (red)
+0.3996104456666716,0.2669041490514441,N. crassa,vector_extracted_from_pdf,filled triangle (red)
+0.44978834666132395,0.314216370011178,N. crassa,vector_extracted_from_pdf,filled triangle (red)
+0.6297320470818543,0.43170821686769195,N. crassa,vector_extracted_from_pdf,filled triangle (red)
+0.028956787547448057,0.08630163931836166,P. zopfii,vector_extracted_from_pdf,open diamond
+0.09765909143531892,0.15199626607752476,P. zopfii,vector_extracted_from_pdf,open diamond
+0.10613686638602132,0.12953350984762804,P. zopfii,vector_extracted_from_pdf,open diamond
+0.2430154733056047,0.2052012118132038,P. zopfii,vector_extracted_from_pdf,open diamond
+0.3014134415406955,0.2000177479812988,P. zopfii,vector_extracted_from_pdf,open diamond
+0.3463733949833225,0.20243289011656013,P. zopfii,vector_extracted_from_pdf,open diamond
+0.43034203860500647,0.23336362427470925,P. zopfii,vector_extracted_from_pdf,open diamond
+0.02383179480078944,0.21482177629907193,S. coelicolor,vector_extracted_from_pdf,open square
+0.04767166389372037,0.23213411575422993,S. coelicolor,vector_extracted_from_pdf,open square
+0.10871964829156092,0.40570305310043275,S. coelicolor,vector_extracted_from_pdf,open square
+0.14760891621287728,0.3977922985874029,S. coelicolor,vector_extracted_from_pdf,open square
+0.19485326075072681,0.4219489337386754,S. coelicolor,vector_extracted_from_pdf,open square
+0.23959612004378508,0.46576316977892707,S. coelicolor,vector_extracted_from_pdf,open square
+0.29981364997333165,0.5043449638786448,S. coelicolor,vector_extracted_from_pdf,open square
+0.04980911059856312,0.17958028920783176,S. ruminantium,vector_extracted_from_pdf,plus
+0.25005571841072277,0.15112550903659272,S. ruminantium,vector_extracted_from_pdf,plus
